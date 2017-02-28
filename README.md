@@ -1,7 +1,7 @@
 # GoS-Scripts
 GoS Scripts.
 
-Fast access to GoS External Scripts folder:
+# Fast access to GoS External Scripts folder:
 
 Use: Win + R.
 
@@ -9,17 +9,17 @@ Inside the dialog box coy and paste this:
 %appdata%/GamingOnSteroids\LOLEXT\Scripts
 then hit 'enter/intro' key.
 
-Folder 'pieseed' => Scripts requested by 'pieseed'.
+# Folder 'pieseed' => Scripts requested by 'pieseed'.
 
----- Gos_MasterYi_Combo.lua => 
+# ---- Gos_MasterYi_Combo.lua => 
 
-Require: 'orbwalker.lua' => must be inside the folder 'Common'
+# Require: 'orbwalker.lua' => must be inside the folder 'Common'
 
-Champion: Master Yi.
+# Champion: Master Yi.
 
-Usage: Press Z to launch a combo:
+# Usage: Press Z to launch a combo:
 
-The combo is: 
+# The combo is: 
 
 1) Cast ULT (R) if available.
 
@@ -35,7 +35,7 @@ The combo is:
 
 7) Try another Auto Attack.
 
-Conditions:
+# Conditions:
 
 1) Must target an enemy champion.
 
