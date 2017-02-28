@@ -1,9 +1,19 @@
 # GoS-Scripts
 GoS Scripts.
 
+Fast access to GoS External Scripts folder:
+
+Use: Win + R.
+
+Inside the dialog box coy and paste this: 
+%appdata%/GamingOnSteroids\LOLEXT\Scripts
+then hit 'enter/intro' key.
+
 Folder 'pieseed' => Scripts requested by 'pieseed'.
 
 ---- Gos_MasterYi_Combo.lua => 
+
+Require: 'orbwalker.lua' => must be inside the folder 'Common'
 
 Champion: Master Yi.
 
